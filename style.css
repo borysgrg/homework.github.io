@@ -1,0 +1,226 @@
+* {
+  box-sizing: border-box;
+}
+.header {
+  margin-bottom: 110px;
+}
+.header-content {
+  width: 940px;
+  margin: 0 auto;
+}
+.upper-menu {
+  padding-top: 30px;
+  padding-bottom: 31px;
+  width: 940px;
+  border-bottom: 1px solid #828282;
+  display: flex;
+  justify-content: space-between;
+}
+.home {
+  font-size: 18px;
+  line-height: 22px;
+}
+.upper-menu-link {
+  font-size: 18px;
+  line-height: 22px;
+  color: #828282;
+}
+.owner-info {
+  display: flex;
+  justify-content: space-between;
+  width: 940px;
+}
+.name {
+  font-size: 47px;
+  line-height: 59px;
+  height: 119px;
+  width: 124px;
+  font-weight: bolder;
+  margin-top: 10px;
+}
+.proffesion {
+  width: 145px;
+  height: 44px;
+  margin-top: 60px;
+  font-size: 18px;
+  line-height: 22px;
+}
+.languages {
+  transform: rotate(-90deg);
+}
+.lang-container {
+  padding-top: 85px;
+}
+.lang-details {
+  font-size: 16px;
+  line-height: 20px;
+  color: #828282;
+}
+.defis {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.denis-photo {
+  margin-top: 30px;
+}
+.about-me-information {
+  background: #f6f6f6;
+  height: 506px;
+}
+.about-me-content {
+  margin: 0 auto;
+}
+.about-me-title {
+  text-align: center;
+  font-size: 34px;
+  font-weight: bolder;
+  line-height: 42px;
+  padding-top: 120px;
+  padding-bottom: 40px;
+}
+.about-me-text {
+  text-align: center;
+}
+.paragraph-style {
+  text-align: center;
+  font-size: 18px;
+  line-height: 22px;
+  margin-bottom: 45px;
+}
+.skills-info {
+  height: 603px;
+}
+.skill-box {
+  width: 940px;
+  height: 603px;
+  margin: 0 auto;
+}
+.skills-title {
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  color: #070707;
+  padding-top: 89px;
+}
+.skill-box-text {
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #070707;
+  padding-top: 69px;
+  padding-bottom: 83px;
+}
+.programs-pictures {
+  display: flex;
+  justify-content: space-between;
+}
+.skills-logos {
+  width: 166.46px;
+  height: 206.4px;
+}
+.portfolio-info {
+  background: #f6f6f6;
+}
+.portfolio-box {
+  width: 940px;
+  margin: 0 auto;
+}
+.portfolio-title {
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  padding-top: 113px;
+}
+.woman-m-c {
+  padding-top: 47px;
+  padding-bottom: 45px;
+}
+
+.online-fashion-store-hp {
+  font-size: 18px;
+  line-height: 20px;
+  text-align: center;
+  text-decoration-line: underline;
+  color: #070707;
+  padding-left: 350px;
+}
+.reebok-pic {
+  padding-top: 100px;
+  padding-bottom: 45px;
+}
+.reebok-store-link {
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  text-decoration-line: underline;
+  color: #070707;
+  padding-left: 390px;
+}
+.braun-pic {
+  padding-top: 100px;
+  padding-bottom: 45px;
+}
+.braun-loading-page {
+  padding-bottom: 100px;
+}
+.braun-link {
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  text-decoration-line: underline;
+  color: #070707;
+  padding-left: 360px;
+}
+.contacts-databox {
+  height: 600px;
+}
+.contact-box-info {
+  width: 940px;
+  height: 600px;
+  margin: 0 auto;
+}
+.contacts-box-title {
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  padding-top: 114px;
+}
+.contact-box-text {
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  padding-top: 20px;
+}
+.button-container {
+  padding-top: 40px;
+  padding-left: 345px;
+  padding-bottom: 100px;
+}
+.send-a-mess-button {
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 10px 50px 10px 50px;
+  border-radius: 40px;
+  border: none;
+}
+.social-media-links {
+  width: ;
+  padding-left: 250px;
+  padding-right: 250px;
+  display: flex;
+  justify-content: space-between;
+}
+.like-me-links {
+  padding-top: 50px;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #828282;
+}
+.like-me-links-style {
+  color: #828282;
+  text-decoration: none;
+}
